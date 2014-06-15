@@ -1,6 +1,6 @@
 % Generates plots depicting the average repsonse of Single Units and 
 % Multi Units to a motionstimulus condition. The plots are compiled to two
-% postscript files one each for Single Units and MultiUnits.
+% postscript files one each for Single Units and Multi Units.
 %
 % Haider Riaz - haider.riaz@mail.mcgill.ca
 % McIntyre Medical Building Room 1225
