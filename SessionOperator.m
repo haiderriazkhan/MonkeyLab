@@ -1,4 +1,4 @@
-% Function for computing MultiUnits from raw waveforms
+% Function for computing MultiUnits from raw waveforms for an entire session
 % The function is custom made for use in Erik Cook's lab and is compatible
 % with experiments performed with two microelectrodes placed in separate  
 % recpeptive fields in area MT.
