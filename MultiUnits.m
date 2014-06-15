@@ -1,5 +1,5 @@
 % Function for computing MultiUnit spikes for a trial and storing them as 
-% int8 boolean array. The output is two arrays for each electrode.
+% int8 boolean array. The output is two arrays. One for each electrode.
 %
 % Haider Riaz - haider.riaz@mail.mcgill.ca
 % McIntyre Medical Building Room 1225
