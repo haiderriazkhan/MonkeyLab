@@ -1,4 +1,4 @@
-% Function for storing SingleUnits spikes of a trial as int8 boolean arrays
+% Function for storing SingleUnit spikes of a trial as int8 boolean arrays
 %
 % Haider Riaz - haider.riaz@mail.mcgill.ca
 % McIntyre Medical Building Room 1225
