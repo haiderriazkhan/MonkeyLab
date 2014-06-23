@@ -75,6 +75,6 @@ function SU = SingleUnits(RawWaveforms, e , Session , TrialNum, SUnum)
         
     end
     
-    
+    SU = int8(SU);
 
 end
