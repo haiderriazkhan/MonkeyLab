@@ -5,7 +5,7 @@ The MonkeyLab repository contains a list of function for analyzing raw electrode
 
 The functions "RootMeanSquare.m" and "CoherenceTriggeredAverage.m" also generate postscript files that contain plots. The plots are appended to their respective files as they are generated.
 
-The MonkeyLab functions are available as a handy reference for those (mostly myself) using MATLAB to analyse data in Systems neuroscience.
+The MonkeyLab functions are available as a handy reference for those (mostly myself) using MATLAB to analyse data in systems neuroscience.
   
     
 -- Haider Riaz Khan
